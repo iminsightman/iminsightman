@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iminsightman
 - 👀 I’m interested in Almost everything.
-- 🌱 I’m currently learning Data Science.
+- 🌱 I’m currently learning Advanced Machine Learning.
 - 💞️ I’m looking to collaborate on Data Science Projects.
 - 📫 How to reach me mahdi.nasehiyan@gmail.com
 
